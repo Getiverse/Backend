@@ -1,0 +1,4 @@
+input UpdateReplyInput {
+    comment: String!
+    replyId: String!
+}

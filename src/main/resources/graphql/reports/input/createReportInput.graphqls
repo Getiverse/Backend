@@ -1,0 +1,5 @@
+input createReportInput {
+    type: String!
+    postType:PostType!
+    postId:String!
+}

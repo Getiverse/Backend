@@ -1,0 +1,27 @@
+type Instant {
+    id: ID!
+    userId:String!
+    title: String!
+    content:String!
+    image:String!
+    createdAt: Date!
+    postDate:Date!
+    postTime:Time!
+    ratingsNumber: Int!
+    ratingSum: Int!
+    categories: [String!]!
+    reports: [Report!]
+    isVisible:Boolean!
+    views: Int!
+}
+
+extend type Query {
+    findInstantById(id:String!): Instant
+    findInstantsByIds(ids: [String!], page: Page!): InstantsPage
+    findAllInstants(page: Page!, filterType: FilterType, filterValue: String) : InstantsPage
+    getInstantsByCategory(category:String!, page: Page!): InstantsPage
+    getInstantsByCategories(categories: [String!], page: Page!): InstantsPage
+    getInstantByRating(rating:Int!, page: Page!): InstantsPage
+    getInstantsByUserIds(userIds: [String!], page: Page!): InstantsPage
+    getInstantsByUserId(userId: String!, page: Page!): InstantsPage
+}

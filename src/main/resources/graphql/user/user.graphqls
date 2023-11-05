@@ -1,0 +1,35 @@
+type User {
+    id: ID!
+    name: String!
+    userName: String!
+    profileImage: String!
+    backgroundImage:String
+    bio:String
+    createdAt: Date!
+    selectedCategories: [String!]
+    numberOfArticles: Int
+    numberOfInstants: Int
+    saved: [String!]
+    followers: [String!]
+    follow: [String!]
+    socialLinks:[String!]
+    links: [Link!]
+    contact: String
+    blockedUsers: [String!]
+}
+
+extend type Query {
+    findUserById(id:String!): User
+    findUsersByIds(ids: [String!]): [User!]
+    findAllFollowByUserId(userId: String!, page: Page!): UsersPage
+    getUserFollowers(id: String!, page: Page!): UsersPage
+    getUserFollowing(id: String!, page: Page!): UsersPage
+    findAllUsers(page: Page!): UsersPage
+    getUserPostsRating(id: String!): [Rating!]
+    getUserPostViews(id: String!): Int
+}
+
+type Link {
+    url: String!
+    name: String!
+}

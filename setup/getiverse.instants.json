@@ -1,0 +1,1781 @@
+[{
+  "_id": {
+    "$oid": "64d79647383d2d6294658fd0"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Tesla Last Words",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"I wish I could be beside you now mother, to bring you the glass of water. All these years I have spent in the service of mankind brought me nothing but insults and humiliation.”\"}]}]",
+  "image": "https://cdn.filestackcontent.com/Jrwr4RoNT2CylnjVueVg",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T16:24:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 12,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d79d1e383d2d6294658fd3"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Enrico Fermi Quotes",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"There's two possible outcomes: if the result confirms the hypothesis, then you've made a discovery. If the result is contrary to the hypothesis, then you've made a discovery.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/LAGufXfGQuG4F6uqcAnK",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T16:54:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a70d8f56c0e4e1809c23a"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7a0e4383d2d6294658fd5"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "Pablo Picasso quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"\"},{\"text\":\"Learn the rules like a pro, so you can\",\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"break them like an artist.\",\"italic\":true},{\"text\":\"\\\"\"}]}]",
+  "image": "https://cdn.filestackcontent.com/L1AaoCOeQOmfmbNysIdw",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-10-05T17:10:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 10,
+  "ratingSum": 0,
+  "categories": [
+    "643a6ec3f56c0e4e1809c1fe",
+    "643a6fb4f56c0e4e1809c213"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7a355383d2d6294658fd6"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "Albert Einstein quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Make everything as simple as possible, but\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"not simpler.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/aZ37YUHWT6mZhzGsC5RR",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-12T17:20:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 4,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a7074f56c0e4e1809c22b"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7a51b383d2d6294658fd7"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "Ayrton Senna quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"If a person has no dreams, they no\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"longer have any reason to live. Dreaming is necessary, although in the\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"dream reality should be glimpsed.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"For me this is a principle of life.\\\"\"}]}]",
+  "image": "https://cdn.filestackcontent.com/3cvywhWZT1awatWdcvC8",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T17:28:10.000Z"
+  },
+  "ratingsNumber": 1,
+  "views": 4,
+  "ratingSum": 5,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a7074f56c0e4e1809c22b"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7a945383d2d6294658fd8"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "The attempt to straighten the Pisa Tower",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"In 1934, Mussolini worsened the situation of the Leaning Tower, labeling it a national disgrace and attempting to correct it, however this increased the tower inclination  rather than reducing it.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1626252043332-23d2cf5d0aa9?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T17:46:10.000Z"
+  },
+  "ratingsNumber": 1,
+  "views": 5,
+  "ratingSum": 5,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a708cf56c0e4e1809c22e"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7b28f383d2d6294658fd9"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Auguste Marie and  Louis Nicolas Lumière, the cinema Inventors ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The \"},{\"text\":\"Lumière brothers \",\"bold\":true},{\"text\":\"were French manufacturers of photography equipment, best known for their \"},{\"text\":\"Cinématographe\",\"underline\":true},{\"text\":\" motion picture system and the short films they produced between 1895 and 1905\"}]}]",
+  "image": "https://media0.giphy.com/media/Er0kJvV9wInL2/giphy.gif?cid=4726e06dbu3mr119irrrf4j22brz2g8ck3gpwe7f219f4vcn&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-12T18:25:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a6edff56c0e4e1809c201",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7b6c2383d2d6294658fda"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "The way to the moon",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Apollo 11\",\"bold\":true},{\"text\":\" was the American spaceflight that first landed humans on the Moon. Commander Neil Armstrong and lunar module pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on \"},{\"text\":\"July 20, 1969, at 20:17\",\"italic\":true}]}]",
+  "image": "https://media3.giphy.com/media/W69xBwRM9fhh30eyMw/giphy-downsized-large.gif?cid=4726e06d4fl5rrtxqstc93jrcdv9zadi1wsx62y5frvmhpy7&ep=v1_gifs_search&rid=giphy-downsized-large.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-12T18:43:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 2,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a708cf56c0e4e1809c22e",
+    "643a6feff56c0e4e1809c219"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7b94d383d2d6294658fdd"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Space shuttle",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. as part of the Space Shuttle program.\"}]}]",
+  "image": "https://player.vimeo.com/external/178166548.hd.mp4?s=83a63ecc9b50478db672271b81d1ad9efc3f0854&profile_id=174&oauth2_token_id=57447761",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-12T18:54:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a708cf56c0e4e1809c22e"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7c4d5383d2d6294658fe3"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Napoleon quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"If you want something done, do it yourself\\\"\",\"bold\":true}]}]",
+  "image": "https://media0.giphy.com/media/26tn4OE1UmYoJzTPi/giphy.gif?cid=4726e06d8r4yq23bw675nyw6pksidqk7p2su98lu2kfujnzw&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-12T19:43:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7c5b0383d2d6294658fe4"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "2001: A Space Odyssey final explained ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Kubrick was asked what 2001 A Space Odyssey's last scene actually meant, and he explained that Dave was \\\"taken in by godlike entities; creatures of pure energy and intelligence.\\\"\"}]}]",
+  "image": "https://cdn.filestackcontent.com/Aw5zljIOQWqEScMmdRFa",
+  "createdAt": {
+    "$date": "2023-08-11T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-11T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-09-18T19:47:10.000Z"
+  },
+  "ratingsNumber": 1,
+  "views": 20,
+  "ratingSum": 5,
+  "categories": [
+    "643a6edff56c0e4e1809c201"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7c885383d2d6294658fe9"
+  },
+  "userId": "QrC0r6xkBxfa35Tspho2mIbRDRx1",
+  "title": "pino daniele",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"haha pinus.. sono molto divertente.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1621528003619-a37d2b84eb6e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T19:59:10.000Z"
+  },
+  "ratingsNumber": 2,
+  "views": 12,
+  "ratingSum": 10,
+  "categories": [
+    "643a70d8f56c0e4e1809c23a",
+    "643a70c9f56c0e4e1809c237",
+    "643a7074f56c0e4e1809c22b"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7c946383d2d6294658feb"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "duke of wellington quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"Nothing except a battle lost can be half so melancholy as a battle won\\\"\"}]}]",
+  "image": "https://images.unsplash.com/photo-1523829949029-7e28e82aa713?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-12T20:02:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7e11c383d2d6294658ff0"
+  },
+  "userId": "0ahdrZ7v3Weogi3qvMo42LqRdhl1",
+  "title": "The more you know ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"BREZHNEVVVVV\"}]}]",
+  "image": "https://cdn.filestackcontent.com/xRY0qB1PRw6BxdZ7HOt0",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T21:44:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 2,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a6fb4f56c0e4e1809c213",
+    "643a7074f56c0e4e1809c22b"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d7e30e383d2d6294658ff1"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Leopardi and the dedication to Pisa",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"I like the appearance of Pisa much more than that of Florence. This Lung'arno is such a wide, magnificent, cheerful, and charming spectacle that it captivates: I haven't seen anything similar neither in Florence nor in Milan nor in Rome. And I truly don't know if there are many views of this kind throughout all of Europe.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1584992054851-8ccd6dfed787?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-20T21:52:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 8,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a6ec3f56c0e4e1809c1fe",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d8e83a91f6b92a026de955"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Enzo Ferrari, One of the greatest car manufacturers ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Enzo Ferrari (1898-1988) was an Italian automotive engineer and founder of the Ferrari automobile company. He played a pivotal role in shaping the world of motorsports and luxury sports cars. Ferrari's passion for racing led him to establish Scuderia Ferrari in 1929, a racing team that eventually evolved into the Ferrari brand known today. His commitment to excellence and innovation earned the company numerous victories in Formula One racing and a reputation for producing high-performance, iconic sports cars. Ferrari's legacy continues to influence the automotive industry and motorsports to this day.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1678126630999-91a3a33dd64b?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-31T16:27:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 3,
+  "ratingSum": 0,
+  "categories": [
+    "643a708cf56c0e4e1809c22e",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d8ed4191f6b92a026de956"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Dracula and his brothers story ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Did you know that Dracula had two brothers, Radu and Mehmed? The latter was appointed by the Ottoman Empire's sultan to strengthen the alliance between Wallachia and the empire.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1514539079130-25950c84af65?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T16:48:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 5,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d909cf91f6b92a026de958"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "The highest mountain in the world",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The highest mountain in the world is Mount\"},{\"text\":\" Everest,\",\"bold\":true},{\"text\":\" sitting pretty at \"},{\"text\":\"8,848m\",\"underline\":true},{\"text\":\" in the Himalayas in \"},{\"text\":\"Nepal\",\"italic\":true}]}]",
+  "image": "https://media2.giphy.com/media/aKolvFoj4XBE5yCotV/giphy.gif?cid=4726e06da4pr87obqrjbrir66i8wf32qdkd57vz7xyt6yv9j&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-16T18:50:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 2,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d90ae291f6b92a026de959"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "The longest river in the world",
+  "content": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"The \"},{\"text\":\"Nile\",\"bold\":true},{\"text\":\", an African river that flows northward, is the longest river in the world, renowned for its millennia-old history and archaeological sites along its banks. The fertile lands of the Lower Nile were the cradle of ancient Egyptian civilization and still host the Great Pyramids and the Sphinx of Giza near Cairo. Between the cities of Luxor and Aswan, tourists can take tours on luxurious cruise ships or on traditional feluccas.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1623674567450-b600b67864a6?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-16T18:54:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 6,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9193791f6b92a026de95c"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "highest volcano in the world",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Nevados Ojos del Salado\",\"bold\":true},{\"text\":\" is the world's highest volcano, situated on the Chile-Argentina border in the Andes. Standing at 22,615 feet (6,893 meters), it's renowned for its challenging climbs and stunning views. This active stratovolcano boasts a snow-covered peak, attracting adventurers and offering impressive vistas.\"}]}]",
+  "image": "https://player.vimeo.com/external/630984399.hd.mp4?s=89f4a8532d46069db5793e609114758227923d1a&profile_id=172&oauth2_token_id=57447761",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-16T19:56:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 3,
+  "ratingSum": 0,
+  "categories": [
+    "643a710cf56c0e4e1809c243",
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d919c291f6b92a026de95d"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "What is a Geyser",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"A geyser is a natural occurrence caused by underground volcanic activity, resulting in intermittent eruptions of hot water and steam from the Earth's surface. These eruptions create impressive columns of water and steam and are commonly found in geothermally active areas.\"}]}]",
+  "image": "https://player.vimeo.com/external/409354972.sd.mp4?s=ad063f92a09ad819a484d83df89cfc589d4f04bc&profile_id=139&oauth2_token_id=57447761",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T19:58:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a710cf56c0e4e1809c243",
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d91ed991f6b92a026de95e"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Barrier Reef",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"A \"},{\"text\":\"barrier reef\",\"bold\":true},{\"text\":\" is a natural underwater formation found in oceans and seas, typically parallel to coastlines. It's composed of coral and other marine organisms, creating a protective barrier between the open sea and the shoreline. The Great Barrier Reef, off the coast of Australia, is the world's largest and most famous barrier reef, renowned for its incredible biodiversity and vibrant marine life. These reefs play a crucial role in protecting coastal areas and supporting marine ecosystems.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1582623838120-455da222cdc7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-20T20:20:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 6,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d92b0791f6b92a026de95f"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Étretat and the hidden treasure of the French kings.",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"It's said to be a place where Arsène Lupin hidden some of his ill-gotten treasures, adding to the empty coffers of the Kings of France who drained all the treasures for their own interests.The real-life beauty and unique geography of Étretat make it an ideal backdrop for such tales of adventure and hidden secrets.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1596280832755-1dfe1a24e2d9?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-18T21:12:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 12,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243",
+    "643a6edff56c0e4e1809c201"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d936ca91f6b92a026de960"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Rome, Italy capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Rome, a historic city with iconic landmarks like the Colosseum and Pantheon. It's a hub of art, culture, and religious significance, with Vatican City at its heart. Roman Forum, Palatine Hill, and picturesque piazzas add to its charm, while Italian cuisine and modern life flourish amid ancient history.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-12T22:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T22:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-09-05T22:02:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 14,
+  "ratingSum": 0,
+  "categories": [
+    "643a710cf56c0e4e1809c243",
+    "643a70b9f56c0e4e1809c234",
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9375091f6b92a026de961"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Berlin, Germany capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Berlin, Germany's capital, is a dynamic city blending history and modernity. Known for the Berlin Wall's remnants, Brandenburg Gate, and diverse architecture. It's a cultural hub with museums, music scenes, and vibrant neighborhoods\"}]}]",
+  "image": "https://images.unsplash.com/photo-1509136561942-7d8663edaaa2?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T22:04:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9379f91f6b92a026de962"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Paris, France capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Paris, France's capital, is synonymous with romance, art, and culture. Iconic landmarks like the Eiffel Tower and Louvre Museum define its skyline. Champs-Élysées, Notre-Dame Cathedral, and Montmartre add to its charm. Known for haute cuisine and fashion, Paris is a global cultural center.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T22:05:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 3,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9386691f6b92a026de963"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "London, United Kingdom capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"London\",\"bold\":true},{\"text\":\", the UK's capital, is a historic metropolis blending tradition and modernity. Landmarks like Big Ben, the Tower of London, and Buckingham Palace define its skyline. The River Thames, museums, West End theater, and diverse neighborhoods highlight its cultural richness.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-11-02T22:09:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 3,
+  "ratingSum": 0,
+  "categories": [
+    "643a710cf56c0e4e1809c243",
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d939f091f6b92a026de964"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Washington Dc, United States capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Washington, D.C. is the capital of the United States, known for its political and historical significance. Iconic landmarks like the White House, Capitol Building, and National Mall house monuments and museums. The city's layout and architecture reflect its role as a center of government and diplomacy.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1581097543550-b3cbe2e6ea6e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-10-17T22:15:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 3,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d93aa291f6b92a026de965"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Bejiing, China capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Beijing, China's capital, is steeped in history and modernity. Home to the Forbidden City's imperial grandeur and the iconic Great Wall, it's a cultural hub with sites like the Temple of Heaven. Tiananmen Square, modern architecture, and diverse cuisine showcase its dynamic character.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1621871183199-4ec39bb3c41c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T22:18:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d93b9691f6b92a026de966"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Moscow, Russia capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Moscow, is a blend of history and modernity. The Kremlin's historic significance and Red Square's iconic landmarks stand alongside modern skyscrapers. Bolshoi Theatre, St. Basil's Cathedral, and cultural heritage define the city's identity.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T22:22:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d93c2191f6b92a026de967"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "title": "Cairo, Egypt capital",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Cairo, is a vibrant metropolis on the Nile River. It's a blend of ancient history, with the Giza Pyramids and Sphinx nearby, and modern life with bustling markets and diverse neighborhoods. Islamic architecture, museums, and the Nile's presence contribute to its cultural richness.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-09-01T22:25:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 6,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a710cf56c0e4e1809c243"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9408491f6b92a026de96c"
+  },
+  "userId": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "title": "biggest animal in the world",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The blue whale, Earth's largest creature, is a marine mammal renowned for its immense size and distinctive blue-gray coloration. Found in oceans worldwide, it's known for its unique heart, colossal tongue, and powerful spouts of water. Despite its immense size, the blue whale is a gentle filter feeder, subsisting on tiny krill. This majestic species captivates with its sheer magnitude and role in marine ecosystems.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "image": "https://images.unsplash.com/photo-1465103692162-a9bf9c7bd0fc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T22:43:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a70c9f56c0e4e1809c237"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d940f491f6b92a026de96d"
+  },
+  "userId": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "title": "slowest animal in the world",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"A sea anemone is a fascinating marine creature that resembles a flower but is actually a predatory animal. It features colorful tentacles surrounding a central body, which attaches to surfaces on the ocean floor. Sea anemones use their venomous tentacles to capture and immobilize prey, often small fish and plankton. They provide shelter for certain fish species and exhibit a symbiotic relationship with clownfish.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1569304374951-de3d34f108c5?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T22:45:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a70c9f56c0e4e1809c237"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9414491f6b92a026de96e"
+  },
+  "userId": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "title": "fastest animal in the world",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The cheetah is a remarkable big cat known for its incredible speed and distinctive spots. Native to Africa and a small part of Iran, it's the fastest land animal, capable of sprinting up to 70 miles per hour (112 kilometers per hour) in short bursts. With its streamlined body and keen hunting skills, the cheetah is an apex predator that relies on speed to catch its prey, making it an iconic symbol of agility in the animal kingdom.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1569600428323-7fd18782b483?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-16T22:47:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a70c9f56c0e4e1809c237"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d941d891f6b92a026de96f"
+  },
+  "userId": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "title": "The panda, Black-and-white bear",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The panda, often referred to as the giant panda, is a beloved bear species native to China. It's instantly recognizable by its distinctive black-and-white coat, with black eye patches and rounded ears. Pandas primarily consume bamboo, and their diet is a testament to their adaptation to their environment. Despite their carnivorous classification, they have evolved to primarily eat plant material. Known for their gentle demeanor and iconic appearance, pandas hold a special place in both conservation efforts and popular culture.\"}]}]",
+  "image": "https://player.vimeo.com/external/453972287.hd.mp4?s=f7857daf3ff1bbdbed9ca43d6473b94bccfdaf85&profile_id=172&oauth2_token_id=57447761",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-16T22:49:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 4,
+  "ratingSum": 0,
+  "categories": [
+    "643a70c9f56c0e4e1809c237"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9427591f6b92a026de970"
+  },
+  "userId": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "title": "Rhinoceros, Horned herbivore.",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"A rhinoceros is a large, herbivorous mammal known for its thick skin, distinctive horn(s), and powerful build. They are native to Africa and Asia and are known for their solitary and often aggressive nature. Rhinos play a crucial role in their ecosystems and are unfortunately endangered due to poaching and habitat loss.\"}]}]",
+  "image": "https://media1.giphy.com/media/frVtFxCnRdYg9S6eZo/giphy-downsized-large.gif?cid=4726e06d1fwttqykv8my6mk0guwyrlrwhjzqbjrnpvp7cutk&ep=v1_gifs_search&rid=giphy-downsized-large.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T22:52:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 2,
+  "ratingSum": 0,
+  "categories": [
+    "643a70c9f56c0e4e1809c237"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d944ea91f6b92a026de973"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "title": "Kratos quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"A \"},{\"text\":\"Spartan\",\"bold\":true},{\"text\":\" Never Lets His Back Hit The Ground\\\"\"}]}]",
+  "image": "https://media0.giphy.com/media/G5lFWxoTzfSzZPxo6Y/giphy-downsized-large.gif?cid=4726e06dyoku2j3tlbqx5qb9mjjp2vxkoj9am0htpqhndxak&ep=v1_gifs_search&rid=giphy-downsized-large.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T23:02:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 7,
+  "ratingSum": 0,
+  "categories": [
+    "643a704af56c0e4e1809c225",
+    "643a6fb4f56c0e4e1809c213"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9453891f6b92a026de974"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "title": "Geralt of Rivia quote",
+  "content": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\\\"You don't need mutations to strip men of their \"},{\"text\":\"humanity\",\"bold\":true},{\"text\":\"\\\"\"}]}]",
+  "image": "https://media4.giphy.com/media/d88tKlampLOqdCOnad/giphy.gif?cid=4726e06d8jelgjwvuyrmrjurbd2bcdhzpeg05bq161tkyf27&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T23:03:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a704af56c0e4e1809c225"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9457391f6b92a026de975"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "title": "Joel quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"Endure And Survive\\\"\"}]}]",
+  "image": "https://media0.giphy.com/media/xa5PxUklxPjMqK81jc/giphy.gif?cid=4726e06dn8w70q1w7sjjn97rnt1umoqqqoogkhycgs4s84tu&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T23:04:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a704af56c0e4e1809c225"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9463791f6b92a026de976"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "title": "The witcher easter eggs",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"The Witcher\\\" series is a treasure trove of Easter eggs, hidden references that thrill fans. From nods to the original books to winks at the video games, these subtle touches connect the show to its source material. Familiar phrases, symbols, and even sly pop culture references add layers of depth for attentive viewers. Whether you're a fan of the books, games, or show, discovering these Easter eggs is like uncovering hidden gems in a rich fantasy realm.\\\"\"}]}]",
+  "image": "https://media0.giphy.com/media/n5zvfvd05VDO/giphy.gif?cid=4726e06dxa4aj3fen53ai4v7a3bc13up7azxo6tcwu7o3k9q&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T23:08:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a704af56c0e4e1809c225"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9474591f6b92a026de977"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "title": "The three symbols of The witcher netflix series",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The three symbols in \\\"The Witcher\\\" series hold significant meanings:\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"    \"},{\"text\":\"Wolf School Medallion\",\"bold\":true},{\"text\":\": Represents the Wolf School of witchers and their role as monster hunters.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"    \"},{\"text\":\"Flower of Irden\",\"bold\":true},{\"text\":\": Symbolizes the destructive power of the Igni spell, associated with fire.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"    \"},{\"text\":\"Cat School Medallion\",\"bold\":true},{\"text\":\": Belongs to the Cat School of witchers, known for stealth and secrecy.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"These symbols contribute to the world's depth and the diverse nature of witcher training and abilities.\"}]}]",
+  "image": "https://media0.giphy.com/media/SGfWWpPV6LO92/giphy.gif?cid=4726e06d8809bb95y7orvrfvd1wetfwei0aus4xo8m2jnbkr&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T23:12:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 16,
+  "ratingSum": 0,
+  "categories": [
+    "643a704af56c0e4e1809c225"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d94b1b91f6b92a026de979"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "title": "Itachi quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"Those who turn their heads against their comrades are sure to die a terrible death. Be prepared\\\"\"}]}]",
+  "image": "https://media3.giphy.com/media/AYy9YYXHmsGek/giphy.gif?cid=4726e06ds26rf7m2ew5kr0ug0kgegfkvtyt60vwskdbwj9nw&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-13T23:28:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "64d94ae08c7f06cb7e8fa463"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d94b6491f6b92a026de97a"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "title": "Shanks quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"Let's settle this, once and for \"},{\"text\":\"all\",\"bold\":true},{\"text\":\"!\\\"\"}]}]",
+  "image": "https://media4.giphy.com/media/fHb9Jx3UvO7RMz7tUy/giphy.gif?cid=4726e06dy3u1m363d5cg46rhceb5pnbhim3f480f6hg33muf&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-09-30T23:30:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 28,
+  "ratingSum": 0,
+  "categories": [
+    "64d94ae08c7f06cb7e8fa463"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9cd6a91f6b92a026de97b"
+  },
+  "userId": "8iZyTAHwDiXxXFi93X86T2RIO5A3",
+  "title": "What is Getiverse?",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Getiverse is the place where knowledge knows no bounds, and information becomes the gateway to an expansive universe of learning and collaboration\"}]}]",
+  "image": "https://media4.giphy.com/media/ITRemFlr5tS39AzQUL/giphy-downsized-large.gif?cid=4726e06dagdfxinjdo73xys15u9917bgc5fe8qdh6ss1rnya&ep=v1_gifs_search&rid=giphy-downsized-large.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T08:44:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a6feff56c0e4e1809c219",
+    "643a6fb4f56c0e4e1809c213"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9d77591f6b92a026de97c"
+  },
+  "userId": "8iZyTAHwDiXxXFi93X86T2RIO5A3",
+  "title": "When Did the Idea of Getiverse Emerge?",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The concept for Getiverse sprouted during a founder's bus journey to school. Envisioning a platform that could seamlessly facilitate rapid idea-sharing and foster heightened interconnectivity among users, the founder was inspired. The platform's central goal was to furnish users with captivating information, addressing a common struggle faced by the founders themselves—tedious online searches for intriguing content that often encroached upon their leisure time.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1531379410502-63bfe8cdaf6f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T09:27:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 2,
+  "ratingSum": 0,
+  "categories": [
+    "643a6ef7f56c0e4e1809c204",
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9e82891f6b92a026de980"
+  },
+  "userId": "93JPUItMjiWIEG0QDvnv6g0y23B2",
+  "title": "Ferruccio Lamborghini quote ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"Quando si smette di lavorare, si inizia a morire”\",\"bold\":true}]}]",
+  "image": "https://player.vimeo.com/external/428513001.hd.mp4?s=1cc96460073f6b9b6edf48dea69bd5e6b30ed945&profile_id=175&oauth2_token_id=57447761",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T10:39:10.000Z"
+  },
+  "ratingsNumber": 2,
+  "views": 1,
+  "ratingSum": 10,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a708cf56c0e4e1809c22e"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9ec0e91f6b92a026de983"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "This is Carl Jung",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Jung's groundbreaking work in analytical psychology introduced concepts that revolutionized the way we perceive the mind. He delved into the realms of the collective unconscious and archetypes, unveiling the hidden layers of our thoughts, emotions, and behaviors. His theories not only challenged the prevailing psychoanalytic paradigms but also opened new avenues of inquiry into the human experience.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/e4qU3ysPRqSi6vdoMjlM",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T10:55:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9ee1b91f6b92a026de985"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Time travelling ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Do you know that to travel in the future you need to go fast as light and to travel in the past you need to be faster than the light\"}]}]",
+  "image": "https://media2.giphy.com/media/dXRclvyEZ0wQx5q513/giphy-downsized-large.gif?cid=4726e06d9001e6uzfhh2cd10qteiwodcalmqt2vnam8j322w&ep=v1_gifs_search&rid=giphy-downsized-large.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-15T11:04:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a70d8f56c0e4e1809c23a"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64d9ef3d91f6b92a026de988"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "The hottest thing in the universe theoretically",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"In physics, a \\\"kugelblitz\\\" is a theoretical concept of a black hole that is formed from the gravitational collapse of energy, rather than matter. The term \\\"kugelblitz\\\"  it's used to describe a black hole that forms from concentrated energy, typically in the form of intense radiation.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-16T11:09:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 4,
+  "ratingSum": 0,
+  "categories": [
+    "643a70d8f56c0e4e1809c23a"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64da2b7491f6b92a026de991"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "Enzo Ferrari quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"I don't sell cars I sell engines. The car I throw in for free since something has to hold the engines in.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/PltFMc73TPqf3qSCZSqx",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T15:26:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 2,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64da2c4a91f6b92a026de992"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "What Lamborghini is",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"You buy a Ferrari when you want to be somebody. You buy a Lamborghini when you are\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"somebody.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/PVwGYrAsS6ubX0dM3hrA",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T15:29:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a6fb4f56c0e4e1809c213"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64da418791f6b92a026de993"
+  },
+  "userId": "93JPUItMjiWIEG0QDvnv6g0y23B2",
+  "title": "The Wizard Liz quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Don't allow anyone to treat you as an option. They should feel privileged to be around you.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/fgVt28UTvePxIFyiozeA",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-16T17:00:10.000Z"
+  },
+  "ratingsNumber": 1,
+  "views": 14,
+  "ratingSum": 5,
+  "categories": [
+    "643a7074f56c0e4e1809c22b",
+    "643a6fb4f56c0e4e1809c213"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64da42d891f6b92a026de995"
+  },
+  "userId": "93JPUItMjiWIEG0QDvnv6g0y23B2",
+  "title": "Elon Musk quote",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\\"Never. I don’t ever give up. I’d have to be dead or completely incapacitated. For my part, I will never give up, and I mean never.”\"}]}]",
+  "image": "https://media2.giphy.com/media/oImOwaZ34b8K70aQ6B/giphy-downsized-large.gif?cid=4726e06dxrad0jgr38g999vlbd5opawpc7myssewuqas2r4s&ep=v1_gifs_search&rid=giphy-downsized-large.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T17:06:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a7074f56c0e4e1809c22b",
+    "643a6fb4f56c0e4e1809c213",
+    "643a6f46f56c0e4e1809c20d"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64da49df91f6b92a026de996"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "Full Metal Jacket",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Did you know that \\\"Full Metal Jacket\\\" a film about the Vietnam War was entirely shot in England.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/qrIm3mshQeGa7UJY37aF",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-14T17:35:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64ddbffc91f6b92a026de9a3"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "D. B Cooper",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The D. B. Cooper story encapsulates the daring 1971 plane hijacking, where an unidentified man seized a ransom before parachuting into obscurity. The enigma surrounding his true identity and his elusive disappearance has sparked ongoing fascination and conjecture, transforming him into an emblem of audacious mystery.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1512289984044-071903207f5e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-25T08:36:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 2,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a6edff56c0e4e1809c201"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64ddc1c391f6b92a026de9a4"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Bonnie and Clyde ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"During the Great Depression, \"},{\"text\":\"Bonnie Parker and Clyde Barrow\",\"bold\":true},{\"text\":\" gained infamy for a series of daring bank heists and criminal exploits. Their actions, marked by violence and a romanticized image, ended in a fatal ambush by law enforcement in 1934. Their story lives on as a symbol of rebelliousness and outlaw allure in popular culture.\"}]}]",
+  "image": "https://media0.giphy.com/media/l0MYEDLTpOlgxZWjm/giphy.gif?cid=4726e06dnsv52f4cce4wer6ox47fukeio1wmr42v5kwyhfde&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-17T08:44:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a6edff56c0e4e1809c201"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64ddc2e091f6b92a026de9a5"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Alcatraz escape",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"In 1962, three inmates attempted a daring escape from Alcatraz using homemade tools and a makeshift raft. They vanished into the San Francisco Bay and were never found, sparking enduring mystery and speculation about their fate.\"}]}]",
+  "image": "https://media4.giphy.com/media/D6mXLe1a89JdYLaR2k/giphy.gif?cid=4726e06dzpfle2p3707k9z6q3fowrwegwspt6oqsmblb04v7&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+  "createdAt": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-17T08:49:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a6edff56c0e4e1809c201",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64ddc7d991f6b92a026de9a6"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "The vodka pipeline between Russia and Estonia",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"In a border town, a vodka pipeline bridged Russia and Estonia, born from Dmitri's idea and Mart's determination. Stretching 200 kilometers, it connected distilleries to consumers. Despite skepticism, innovation prevailed during its creation. Dmitri's engineering skill gave form to the idea, while Mart's determination conquered bureaucracy for approvals. Completion led to a grand inauguration, uniting officials and locals in a significant toast.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1613255347968-aa2aaa353976?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-20T09:10:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 3,
+  "ratingSum": 0,
+  "categories": [
+    "643a6edff56c0e4e1809c201",
+    "643a6ef7f56c0e4e1809c204"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64ddc9d791f6b92a026de9a7"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "The robbery of diamond anversa",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The diamond heist in Antwerp was a daring and audacious crime that made headlines worldwide. In this high-stakes robbery, a group of skilled criminals managed to infiltrate one of the world's most renowned diamond districts, Antwerp, and made off with a substantial amount of precious gems. The intricate planning, precision execution, and brazenness of the thieves captured the world's attention, leaving a lasting mark on the city's history and the diamond industry as a whole.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-17T09:18:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a6edff56c0e4e1809c201"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64ddce0c91f6b92a026de9a8"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "The role of Rolls Royce jet engines in the korean war",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"After World War II, Rolls-Royce jet engines emerged as a crucial force, these British engines powered United Nations aircraft like the Gloster Meteor and the Lockheed P-80 Shooting Star. Stalin's Soviet Union, recognizing their power, couldn't directly employ them in military planes due to licensing contractual clauses. Instead, they covertly equipped the MiG-15 with a Rolls-Royce Nene engine, elevating the technological level of the conflict. This maneuver  shaped the outcome of Korean war.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1686586710714-6949361ba9f6?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-08-17T09:36:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 1,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a6feff56c0e4e1809c219"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64ddd12a91f6b92a026de9a9"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "The case of the 1785 diamond necklace.",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"The 1785 diamond necklace case is a notorious chapter in French history. Commissioned by Louis XV, the necklace's fate took a dramatic turn after his death. Jeanne de Valois-Saint-Rémy, using her cunning, duped Cardinal de Rohan into believing Queen Marie Antoinette desired the necklace. This scandal exposed layers of manipulation and ended in a sensational trial. This episode foreshadowed the French Revolution, as the lavish lifestyles of the elite clashed with the growing unrest of the masses.\"}]}]",
+  "image": "https://cdn.filestackcontent.com/5HsMsD1STgygckdD33aS",
+  "createdAt": {
+    "$date": "2023-08-16T22:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-16T22:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-09-08T09:49:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 9,
+  "ratingSum": 0,
+  "categories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a6ef7f56c0e4e1809c204"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64e0f9794af71f0f4d32c0aa"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "title": "Find your inspiration ",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"Sometimes breaking away from your daily routine can help you see things in a new light.Remember, inspiration can come from unexpected places, so stay open-minded and receptive to new experiences and ideas.\"}]}]",
+  "image": "https://images.unsplash.com/photo-1597200381847-30ec200eeb9a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-08-18T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-08-18T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-10-20T19:18:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 6,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64f5fcd54af71f0f4d32c0ae"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "parallel processes in space rockets",
+  "content": "[{\"type\":\"p\",\"children\":[{\"text\":\"In the 1960s, following NASA rocket explosions, a groundbreaking approach was adopted: multi-parallel processing. This involved running processes on three separate CPUs positioned in different spatial locations.In a nutshell, the idea is to execute a process concurrently on all three CPUs. If one CPU produces a result that differs from the others, it's shut down and restarted because it may have been affected by space radiation.\"}],\"id\":\"7ze8y\"}]",
+  "image": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-09-04T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-09-04T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-09-04T17:50:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a6feff56c0e4e1809c219",
+    "643a708cf56c0e4e1809c22e"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+},
+{
+  "_id": {
+    "$oid": "64f8a25c4af71f0f4d32c0af"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "title": "Hammurabi's code",
+  "content": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Hammurabi's code was introduced 1755–1750 BC and is vastly known during our time for the law \"},{\"text\":\"\\\"eye for eye teeth for teeth\\\"\",\"bold\":true}],\"id\":\"1jr52\"}]",
+  "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+  "createdAt": {
+    "$date": "2023-09-06T00:00:00.000Z"
+  },
+  "postDate": {
+    "$date": "2023-09-06T00:00:00.000Z"
+  },
+  "postTime": {
+    "$date": "2023-09-06T18:01:10.000Z"
+  },
+  "ratingsNumber": 0,
+  "views": 0,
+  "ratingSum": 0,
+  "categories": [
+    "643a7134f56c0e4e1809c249",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "reports": [],
+  "isVisible": true,
+  "_class": "com.backend.getiverse.model.Instant"
+}]

@@ -1,0 +1,4 @@
+input createCategoryInput{
+    name: String!
+    image: String!
+}

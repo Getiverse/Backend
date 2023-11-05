@@ -1,0 +1,9 @@
+input createArticleInput{
+    image: String!
+    title: String!
+    categories: [String!]!
+    content: String!
+    readTime: Int!
+    postDate:String!
+    postTime:String!
+}

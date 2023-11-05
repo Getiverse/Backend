@@ -1,0 +1,17 @@
+type Rating {
+    id: ID!
+    userId: ID!
+    stars: Int!
+    createdAt: Date!
+    comment: String!
+    notUsefulRating:[String!]
+    usefulRating: [String!]
+    postId: ID!
+    postType: PostType!
+}
+
+extend type Query {
+    findAllRatings(page:Page!): RatingsPage
+    findRatingsByPostId(postId: String!, postType: PostType!, page:Page!): RatingsPage
+    findRatingById(id: String!): Rating
+}

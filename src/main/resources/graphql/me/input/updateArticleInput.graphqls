@@ -1,0 +1,8 @@
+input updateArticleInput{
+    image: String!
+    title: String!
+    categories: [String!]!
+    content: String!
+    readTime: Int!
+    id: String
+}

@@ -1,0 +1,8 @@
+input createInstantInput{
+    title:String!
+    content: String!
+    image:String!
+    postDate:String!
+    postTime:String!
+    categories: [String!]!
+}

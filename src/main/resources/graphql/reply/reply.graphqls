@@ -1,0 +1,16 @@
+type Reply {
+    id: ID!
+    userId: ID!
+    repliedUser: ID!
+    ratingId: ID!
+    comment: String!
+    createdAt: Date!
+    notUsefulRating:[String!]
+    usefulRating: [String!]
+}
+
+extend type Query {
+    findAllReplies(page:Page!):RepliesPage
+    findRepliesByRatingId(ratingId: String!, page: Page!): RepliesPage
+    findReplyById(id: String!): Reply
+}

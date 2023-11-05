@@ -1,0 +1,63 @@
+  spring:
+    data:
+      mongodb:
+        uri: mongodb://test:test@localhost:27017/
+        database: getiverse
+      repositories:
+        enabled: true
+    servlet:
+      multipart:
+        enabled: true
+        max-file-size: 15MB
+        max-request-size: 15MB
+  graphiql:
+    enabled: false
+  server:
+    compression:
+      enabled: true
+      mime-types: text/html,text/xml,text/plain,text/css,text/javascript,application/javascript,application/json
+      min-response-size: 1024
+  security:
+    firebase-props:
+      database-url: ${FIREBASE_DATABASE}
+      enable-strict-server-session: false
+      enable-check-session-revoked: false
+      enable-logout-everywhere: false
+      session-expiry-in-days: 5
+    cookie-props:
+      max-age-in-minutes: 7200
+      http-only: true
+      secure: true
+      domain: ${DOMAIN}
+      path: /
+    allow-credentials: true
+    allowed-origins:
+      - https://${DOMAIN}
+      - http://localhost
+      - http://localhost:3000
+    allowed-methods:
+      - GET
+      - POST
+      - PUT
+      - PATCH
+      - DELETE
+      - OPTIONS
+    allowed-headers:
+      - Authorization
+      - Origin
+      - Content-Type
+      - Accept
+      - Accept-Encoding
+      - Accept-Language
+      - Access-Control-Allow-Origin
+      - Access-Control-Allow-Headers
+      - Access-Control-Request-Method
+      - X-Requested-With
+      - X-Auth-Token
+      - X-Xsrf-Token
+      - Cache-Control
+      - Id-Token
+    allowed-public-apis:
+      - /file/download/**
+    exposed-headers:
+      - X-Xsrf-Token

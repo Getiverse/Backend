@@ -1,0 +1,4 @@
+type ArticlesPage {
+    count: Int!
+    data: [Article!]
+}

@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "643a6edff56c0e4e1809c201"
+  },
+  "name": "Entertainment",
+  "image": "https://cdn.filestackcontent.com/5BqbKfwTGG9S9Fqgmjzw",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a70d8f56c0e4e1809c23a"
+  },
+  "name": "Science",
+  "image": "https://cdn.filestackcontent.com/UBn5bsWaR0an4SJIoE4n",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a6feff56c0e4e1809c219"
+  },
+  "name": "Technology",
+  "image": "https://cdn.filestackcontent.com/lpUEhNdjQ52rSfsYbYp3",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a7038f56c0e4e1809c222"
+  },
+  "name": "Food and Drink",
+  "image": "https://cdn.filestackcontent.com/hPGszFP2TDaqxv7F1BB9",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a70fcf56c0e4e1809c240"
+  },
+  "name": "Sports",
+  "image": "https://cdn.filestackcontent.com/6etNUz6RU6sTlDa48awZ",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a6ec3f56c0e4e1809c1fe"
+  },
+  "name": "Art",
+  "image": "https://cdn.filestackcontent.com/Vk3JjcfIQ42BZJFWgJxL",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a704af56c0e4e1809c225"
+  },
+  "name": "Games",
+  "image": "https://cdn.filestackcontent.com/LBY8rVcQQ566ocUCoN4v",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a710cf56c0e4e1809c243"
+  },
+  "name": "Travel",
+  "image": "https://cdn.filestackcontent.com/cpkJZ0uQ3KdG53anGp4w",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a6ef7f56c0e4e1809c204"
+  },
+  "name": "Community",
+  "image": "https://cdn.filestackcontent.com/2PsvTEuYTSS6DhtdeUzn",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a705cf56c0e4e1809c228"
+  },
+  "name": "Health",
+  "image": "https://cdn.filestackcontent.com/jywy9yJ5SXy3rmF6HDoR",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a7134f56c0e4e1809c249"
+  },
+  "name": "Culture",
+  "image": "https://cdn.filestackcontent.com/2QVzXfwcRaOOBCQRnG75",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a6f46f56c0e4e1809c20d"
+  },
+  "name": "Business",
+  "image": "https://cdn.filestackcontent.com/iu5Jkt4xR2uPcpEYj1zP",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a7074f56c0e4e1809c22b"
+  },
+  "name": "Self Improvement",
+  "image": "https://cdn.filestackcontent.com/E9dcXHUmTOOxAjQTrLjh",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a708cf56c0e4e1809c22e"
+  },
+  "name": "Engineering",
+  "image": "https://cdn.filestackcontent.com/Gukfar1CQwKjUCVUe7RZ",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a70b9f56c0e4e1809c234"
+  },
+  "name": "History",
+  "image": "https://cdn.filestackcontent.com/MfVJ7MU5S6KkV4GKLBA3",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a6fb4f56c0e4e1809c213"
+  },
+  "name": "Quotes",
+  "image": "https://cdn.filestackcontent.com/tlkucdTmCtJa7CbVTUsw",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "643a70c9f56c0e4e1809c237"
+  },
+  "name": "Animals",
+  "image": "https://cdn.filestackcontent.com/kpvI5Br4QYWI0Bx3hV93",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "64d94ae08c7f06cb7e8fa463"
+  },
+  "name": "Anime",
+  "image": "https://cdn.filestackcontent.com/IPfivv7SQOavPGaglsx5",
+  "_class": "com.backend.getiverse.model.Category"
+},
+{
+  "_id": {
+    "$oid": "64da37fc793e83aaae371b1c"
+  },
+  "name": "Humor",
+  "image": "https://cdn.filestackcontent.com/BLs9dgtKRMuE3PWfyYQ5",
+  "_class": "com.backend.getiverse.model.Category"
+}]

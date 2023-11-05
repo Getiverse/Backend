@@ -1,0 +1,16 @@
+input UpdateUserInput {
+    name: String!
+    profileImage: String!
+    userName: String!
+    backgroundImage:String
+    bio:String
+    links: [CustomLink!]
+    socialLinks: [String!]
+    contact: String
+}
+
+
+input CustomLink {
+    name: String!
+    url: String!
+}

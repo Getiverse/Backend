@@ -1,0 +1,4 @@
+type RepliesPage {
+    count: Int!
+    data: [Reply!]
+}

@@ -1,0 +1,11 @@
+type Report {
+    id: ID!
+    userId: String!
+    type: String!
+    postId:String!
+    postType:PostType!
+}
+
+extend type Query {
+    findAllReports(page:Page!):[Report!]
+}

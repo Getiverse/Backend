@@ -1,0 +1,5 @@
+input ContactUsInput {
+    name: String!
+    email: String!
+    message: String!
+}

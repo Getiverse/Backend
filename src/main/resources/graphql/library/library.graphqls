@@ -1,0 +1,22 @@
+type Library {
+    id:ID!
+    userId:String!
+    isPrivate:Boolean!
+    instants:[String!]
+    articles:[String!]
+    image:String
+    createdAt:Date!
+    title:String!
+    description: String!
+}
+
+extend type Query {
+    findAllLibraries(page:Page!):LibrariesPage
+    findLibraryById(id:String!): Library
+    findLibrariesByUserId(uid: String!, page: Page): LibrariesPage
+}
+
+extend type Mutation {
+    removeInstantFromLibrary(libraryId: String! , instantId: String!):Boolean
+    removeArticleFromLibrary(libraryId: String! , articleId: String!): Boolean
+}

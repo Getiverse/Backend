@@ -1,0 +1,7 @@
+input updateInstantInput {
+    image: String!
+    title: String!
+    categories: [String!]!
+    content: String!
+    id: String
+}

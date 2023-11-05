@@ -1,0 +1,229 @@
+[
+{
+  "_id": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "selectedCategories": [
+    "643a6fb4f56c0e4e1809c213",
+    "643a6ef7f56c0e4e1809c204",
+    "643a70b9f56c0e4e1809c234"
+  ],
+  "name": "Geography",
+  "userName": "geography",
+  "bio": "All the beauty of this world described with words",
+  "profileImage": "https://lh3.googleusercontent.com/a/AAcHTteyyuzKKpMyT-lLzJgY4DLp5O5kOJQRZWvPQP0w1HBB=s96-c",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "backgroundImage": "https://cdn.filestackcontent.com/AQQZCrf3SsCgfitobRSU",
+  "followers": [
+    "8iZyTAHwDiXxXFi93X86T2RIO5A3",
+    "93JPUItMjiWIEG0QDvnv6g0y23B2",
+    "XGl3GEMs63QFNff51h3T7q5X0nc2"
+  ],
+  "follow": [
+    "17eB307nVBTtz1SJI1kncEZzAiL2",
+    "ylY6VVlzLPZaZ3r03YYCZHWcusO2",
+    "XGl3GEMs63QFNff51h3T7q5X0nc2"
+  ],
+  "numberOfArticles": 3,
+  "numberOfInstants": 13,
+  "saved": [
+    "64d78364383d2d6294658fc9",
+    "64d78364383d2d6294658fc8"
+  ],
+  "socialLinks": [],
+  "links": [],
+  "contact": "",
+  "blockedUsers": [],
+  "views": 0,
+  "_class": "com.backend.getiverse.model.User"
+},
+{
+  "_id": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "selectedCategories": [
+    "643a70e7f56c0e4e1809c23d",
+    "643a6ef7f56c0e4e1809c204",
+    "643a70d8f56c0e4e1809c23a"
+  ],
+  "name": "wild animals",
+  "userName": "wild_animals",
+  "bio": "discover the world of animals with simple words",
+  "profileImage": "https://lh3.googleusercontent.com/a/AAcHTtfZdCyZRtZiDULxeWUxYAuA_AUFrdVJtrxZ-sxTzSMt=s96-c",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "backgroundImage": "https://cdn.filestackcontent.com/cNdKAg0RR9uFmsjx5qYA",
+  "followers": [
+    "8iZyTAHwDiXxXFi93X86T2RIO5A3"
+  ],
+  "follow": [
+    "ylY6VVlzLPZaZ3r03YYCZHWcusO2",
+    "G2iPS2FynCXmXT3x1C5zftON4G12",
+    "17eB307nVBTtz1SJI1kncEZzAiL2"
+  ],
+  "numberOfArticles": 1,
+  "numberOfInstants": 5,
+  "saved": [
+    "64d785c2383d2d6294658fcb",
+    "64d785c2383d2d6294658fca"
+  ],
+  "socialLinks": [],
+  "links": [],
+  "contact": "",
+  "blockedUsers": [],
+  "views": 0,
+  "_class": "com.backend.getiverse.model.User"
+},
+{
+  "_id": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "selectedCategories": [
+    "643a704af56c0e4e1809c225",
+    "64d94ae08c7f06cb7e8fa463",
+    "643a6fb4f56c0e4e1809c213",
+    "643a6edff56c0e4e1809c201",
+    "643a705cf56c0e4e1809c228",
+    "643a70b9f56c0e4e1809c234",
+    "643a6ef7f56c0e4e1809c204",
+    "643a6feff56c0e4e1809c219"
+  ],
+  "name": "Lucca Gugescu",
+  "userName": "Lucca Gugescu",
+  "bio": "Co-Founder and Ceo of Getiverse,\nI've built this app with the hope to make Internet a better place",
+  "profileImage": "https://cdn.filestackcontent.com/eMUGhQBUR8il0LcWk3YH",
+  "createdAt": {
+    "$date": "2023-08-11T00:00:00.000Z"
+  },
+  "backgroundImage": "https://cdn.filestackcontent.com/qEqkbsAgTh63rhCd6JEN",
+  "followers": [
+    "17eB307nVBTtz1SJI1kncEZzAiL2",
+    "8iZyTAHwDiXxXFi93X86T2RIO5A3",
+    "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+    "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+    "93JPUItMjiWIEG0QDvnv6g0y23B2",
+    "XGl3GEMs63QFNff51h3T7q5X0nc2",
+    "Dygdb0Eo13eKDcbVwR7576FbKKG3",
+    "SZEwFbs1fZOgKvFttRLGgaiaXQ33"
+  ],
+  "follow": [
+    "zay5prEXbeOWVizNr6b69cuXIgH3",
+    "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+    "ylY6VVlzLPZaZ3r03YYCZHWcusO2",
+    "0ahdrZ7v3Weogi3qvMo42LqRdhl1",
+    "QrC0r6xkBxfa35Tspho2mIbRDRx1",
+    "7dU9j08a7UcIXn9rpItrx8PspbK2",
+    "17eB307nVBTtz1SJI1kncEZzAiL2",
+    "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+    "93JPUItMjiWIEG0QDvnv6g0y23B2",
+    "To7wuWsUoIWlgsgTPmNzaVywlSb2",
+    "rDPH81ChqjT7OxavoV566t0tprY2",
+    "SZEwFbs1fZOgKvFttRLGgaiaXQ33",
+    "eS0sFlloeXMRxPsJQg493a73VMl1"
+  ],
+  "numberOfArticles": 7,
+  "numberOfInstants": 22,
+  "saved": [
+    "64d79419383d2d6294658fcf",
+    "64d79419383d2d6294658fce"
+  ],
+  "socialLinks": [],
+  "links": [
+    {
+      "url": "getiverse.com",
+      "name": "Getiverse"
+    }
+  ],
+  "contact": "luccagugescu@gmail.com",
+  "blockedUsers": [],
+  "views": 0,
+  "_class": "com.backend.getiverse.model.User"
+},
+{
+  "_id": "8iZyTAHwDiXxXFi93X86T2RIO5A3",
+  "selectedCategories": [
+    "643a70b9f56c0e4e1809c234",
+    "643a710cf56c0e4e1809c243",
+    "643a6feff56c0e4e1809c219",
+    "643a6f46f56c0e4e1809c20d",
+    "643a6ef7f56c0e4e1809c204",
+    "643a7134f56c0e4e1809c249"
+  ],
+  "name": "Getiverse",
+  "userName": "Getiverse",
+  "bio": "",
+  "profileImage": "https://lh3.googleusercontent.com/a/AAcHTtecIh9g2nNEIlPqA9Eb5SQCBsi7G3kfcI2pM_lFMcUPSg=s96-c",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "backgroundImage": "",
+  "followers": [
+    "93JPUItMjiWIEG0QDvnv6g0y23B2",
+    "XGl3GEMs63QFNff51h3T7q5X0nc2",
+    "Dygdb0Eo13eKDcbVwR7576FbKKG3",
+    "SZEwFbs1fZOgKvFttRLGgaiaXQ33"
+  ],
+  "follow": [
+    "17eB307nVBTtz1SJI1kncEZzAiL2",
+    "rDPH81ChqjT7OxavoV566t0tprY2",
+    "ylY6VVlzLPZaZ3r03YYCZHWcusO2",
+    "G2iPS2FynCXmXT3x1C5zftON4G12",
+    "zay5prEXbeOWVizNr6b69cuXIgH3",
+    "0ahdrZ7v3Weogi3qvMo42LqRdhl1",
+    "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+    "7dU9j08a7UcIXn9rpItrx8PspbK2",
+    "93JPUItMjiWIEG0QDvnv6g0y23B2",
+    "QrC0r6xkBxfa35Tspho2mIbRDRx1",
+    "XGl3GEMs63QFNff51h3T7q5X0nc2",
+    "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+    "To7wuWsUoIWlgsgTPmNzaVywlSb2",
+    "Dygdb0Eo13eKDcbVwR7576FbKKG3"
+  ],
+  "numberOfArticles": 0,
+  "numberOfInstants": 2,
+  "saved": [
+    "64d913cf91f6b92a026de95b",
+    "64d913cf91f6b92a026de95a"
+  ],
+  "socialLinks": [],
+  "links": [],
+  "contact": "",
+  "blockedUsers": [],
+  "views": 0,
+  "_class": "com.backend.getiverse.model.User"
+},
+{
+  "_id": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "selectedCategories": [
+    "643a7134f56c0e4e1809c249",
+    "643a705cf56c0e4e1809c228",
+    "643a704af56c0e4e1809c225"
+  ],
+  "name": "Luna Everhart",
+  "userName": "Luna_fire_fist",
+  "bio": "anime and games lover",
+  "profileImage": "https://lh3.googleusercontent.com/a/AAcHTtd2HOcFYIp72aT6Kn4PC3eyNSAR8Bb1nGhY5OcyczWH=s96-c",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "backgroundImage": "https://cdn.filestackcontent.com/CpXKTpF8Re6vtMHjzzzB",
+  "followers": [
+    "G2iPS2FynCXmXT3x1C5zftON4G12",
+    "8iZyTAHwDiXxXFi93X86T2RIO5A3"
+  ],
+  "follow": [
+    "17eB307nVBTtz1SJI1kncEZzAiL2",
+    "G2iPS2FynCXmXT3x1C5zftON4G12",
+    "QrC0r6xkBxfa35Tspho2mIbRDRx1"
+  ],
+  "numberOfArticles": 1,
+  "numberOfInstants": 7,
+  "saved": [
+    "64d9435d91f6b92a026de972",
+    "64d9435d91f6b92a026de971"
+  ],
+  "socialLinks": [],
+  "links": [],
+  "contact": "",
+  "blockedUsers": [],
+  "views": 0,
+  "_class": "com.backend.getiverse.model.User"
+}
+]

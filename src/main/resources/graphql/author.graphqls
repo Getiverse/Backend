@@ -1,0 +1,4 @@
+type Author {
+    src: String!
+    name: String!
+}

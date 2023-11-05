@@ -1,0 +1,4 @@
+type CategoriesPage {
+    count: Int!
+    data: [Category!]
+}

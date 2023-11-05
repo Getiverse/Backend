@@ -1,0 +1,42 @@
+extend type Mutation {
+    login: User!
+    logout: User!
+    deleteUser: User!
+    follow(userId: String!): String!
+    setUsefulRating(ratingId: String!): Rating!
+    setNotUsefulRating(ratingId: String!): Rating!
+    setUsefulReply(replyId: String!): Reply!
+    setNotUsefulReply(replyId: String!): Reply!
+    selectCategory(categoryId: String!): [String!]
+    addArticle(input: createArticleInput!): Article
+    addInstant(input: createInstantInput!): Instant
+    updateMyProfile(input: UpdateUserInput!):User
+    addRating(input: createRatingInput!):Rating
+    removeRating(id: String!):Rating
+    editRating(input: updateRatingInput!):Rating
+    updateInstant(input: updateInstantInput!):Instant
+    updateArticle(input: updateArticleInput!):Article
+    updateLibrary(input: updateLibraryInput!):Library
+    removeLibrary(id: String!):Library
+    removeArticle(id:String!):Article
+    removeInstant(id:String!):Instant
+    addReply(input: createReplyInput!):Reply
+    removeReply(id: String!):Reply
+    editReply(input: UpdateReplyInput!):Reply
+    addReport(input: createReportInput!):Report
+    addLibrary(input: createLibraryInput!):Library
+    saveTo(libraryIds: [String!]!, postId:String!, postType:PostType!):Boolean
+    blockUser(id: String!): User
+}
+extend type Query {
+    getFollow(page: Page!): UsersPage
+    getFollowers(page: Page!): UsersPage
+    me: User!
+    getRating: [Rating!]
+    getCategories: [Category!]
+    getPostViews: Int
+    getMyArticles(page: Page!): ArticlesPage
+    getMyInstants(page: Page!): InstantsPage
+    getMyLibraries(page: Page!): LibrariesPage
+    findMyLibraryById(id: String!): Library
+}

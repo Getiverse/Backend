@@ -1,0 +1,30 @@
+type Article {
+    id: ID!
+    userId: String!
+    image: String!
+    title: String!
+    createdAt: Date!
+    content: String!
+    ratingsNumber: Int!
+    ratingSum: Int!
+    categories: [String!]!
+    views: Int!
+    postDate:Date!
+    postTime:Time!
+    readTime: Int!
+}
+
+extend type Query {
+    findArticleById(id:String!): Article
+    findArticlesByIds(ids: [String!]!, page: Page!): ArticlesPage
+    getArticlesByCategory(category:String!, page: Page!):ArticlesPage
+    getArticlesByRating(rating:Int!):[Article!]
+    findAllArticles(page:Page!): ArticlesPage
+    getArticlesByUserIds(userId: [String!]!, page: Page!): ArticlesPage
+    getArticlesByCategories(categories: [String!]!, page: Page!): ArticlesPage
+    getArticlesByUserId(userId: String!, page: Page!): ArticlesPage
+}
+
+
+
+

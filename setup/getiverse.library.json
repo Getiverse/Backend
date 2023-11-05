@@ -1,0 +1,581 @@
+[{
+  "_id": {
+    "$oid": "64d781be383d2d6294658fc6"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d781be383d2d6294658fc7"
+  },
+  "userId": "zay5prEXbeOWVizNr6b69cuXIgH3",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d78364383d2d6294658fc8"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d78364383d2d6294658fc9"
+  },
+  "userId": "rDPH81ChqjT7OxavoV566t0tprY2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d785c2383d2d6294658fca"
+  },
+  "userId": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d785c2383d2d6294658fcb"
+  },
+  "userId": "1KwssC8ZfdVUjbuxqTNNR0CZ8N92",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d785ed383d2d6294658fcc"
+  },
+  "userId": "XGl3GEMs63QFNff51h3T7q5X0nc2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d785ed383d2d6294658fcd"
+  },
+  "userId": "XGl3GEMs63QFNff51h3T7q5X0nc2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d79419383d2d6294658fce"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "isPrivate": true,
+  "instants": [
+    "64d7a0e4383d2d6294658fd5",
+    "64d9e82891f6b92a026de980"
+  ],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d79419383d2d6294658fcf"
+  },
+  "userId": "G2iPS2FynCXmXT3x1C5zftON4G12",
+  "isPrivate": true,
+  "instants": [
+    "64da2b7491f6b92a026de991"
+  ],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7b6cd383d2d6294658fdb"
+  },
+  "userId": "ylY6VVlzLPZaZ3r03YYCZHWcusO2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7b6cd383d2d6294658fdc"
+  },
+  "userId": "ylY6VVlzLPZaZ3r03YYCZHWcusO2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7baae383d2d6294658fde"
+  },
+  "userId": "0ahdrZ7v3Weogi3qvMo42LqRdhl1",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7baae383d2d6294658fdf"
+  },
+  "userId": "0ahdrZ7v3Weogi3qvMo42LqRdhl1",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7c7b9383d2d6294658fe5"
+  },
+  "userId": "QrC0r6xkBxfa35Tspho2mIbRDRx1",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7c7b9383d2d6294658fe6"
+  },
+  "userId": "QrC0r6xkBxfa35Tspho2mIbRDRx1",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7c7c3383d2d6294658fe7"
+  },
+  "userId": "7dU9j08a7UcIXn9rpItrx8PspbK2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d7c7c3383d2d6294658fe8"
+  },
+  "userId": "7dU9j08a7UcIXn9rpItrx8PspbK2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d8da4791f6b92a026de953"
+  },
+  "userId": "17eB307nVBTtz1SJI1kncEZzAiL2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d8da4791f6b92a026de954"
+  },
+  "userId": "17eB307nVBTtz1SJI1kncEZzAiL2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d913cf91f6b92a026de95a"
+  },
+  "userId": "8iZyTAHwDiXxXFi93X86T2RIO5A3",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d913cf91f6b92a026de95b"
+  },
+  "userId": "8iZyTAHwDiXxXFi93X86T2RIO5A3",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d9435d91f6b92a026de971"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d9435d91f6b92a026de972"
+  },
+  "userId": "q43IHzmoulYgCPyKPKbhCg7eL6d2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d9e69991f6b92a026de97e"
+  },
+  "userId": "93JPUItMjiWIEG0QDvnv6g0y23B2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64d9e69991f6b92a026de97f"
+  },
+  "userId": "93JPUItMjiWIEG0QDvnv6g0y23B2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64da04ab91f6b92a026de98d"
+  },
+  "userId": "Dygdb0Eo13eKDcbVwR7576FbKKG3",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64da04ab91f6b92a026de98e"
+  },
+  "userId": "Dygdb0Eo13eKDcbVwR7576FbKKG3",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64da05f991f6b92a026de98f"
+  },
+  "userId": "To7wuWsUoIWlgsgTPmNzaVywlSb2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64da05f991f6b92a026de990"
+  },
+  "userId": "To7wuWsUoIWlgsgTPmNzaVywlSb2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64dc9a8d91f6b92a026de9a1"
+  },
+  "userId": "n4kn1n065FXQ24xr9JHMSf9Mwrs2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-08-16T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "64dc9a8d91f6b92a026de9a2"
+  },
+  "userId": "n4kn1n065FXQ24xr9JHMSf9Mwrs2",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-08-16T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "65081b524af71f0f4d32c0b0"
+  },
+  "userId": "eS0sFlloeXMRxPsJQg493a73VMl1",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "65081b524af71f0f4d32c0b1"
+  },
+  "userId": "eS0sFlloeXMRxPsJQg493a73VMl1",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "65081c684af71f0f4d32c0b2"
+  },
+  "userId": "SZEwFbs1fZOgKvFttRLGgaiaXQ33",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Posts saved which you could read later",
+  "createdAt": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "title": "Read Later",
+  "_class": "com.backend.getiverse.model.Library"
+},
+{
+  "_id": {
+    "$oid": "65081c684af71f0f4d32c0b3"
+  },
+  "userId": "SZEwFbs1fZOgKvFttRLGgaiaXQ33",
+  "isPrivate": true,
+  "instants": [],
+  "articles": [],
+  "image": "",
+  "description": "Favorite Posts",
+  "createdAt": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "title": "Favorite",
+  "_class": "com.backend.getiverse.model.Library"
+}]

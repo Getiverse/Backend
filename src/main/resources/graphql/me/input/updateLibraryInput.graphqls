@@ -1,0 +1,6 @@
+input updateLibraryInput{
+    isPrivate:Boolean!
+    title:String!
+    description: String!
+    id: String!
+}

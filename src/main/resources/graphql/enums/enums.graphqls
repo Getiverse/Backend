@@ -1,0 +1,8 @@
+enum PostType {
+    INSTANT
+    ARTICLE
+}
+enum FilterType {
+    USER_ID, LIBRARY_ID, INSTANT_ID
+}
+

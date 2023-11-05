@@ -1,0 +1,9 @@
+input updateRatingInput{
+    stars: Int!
+    comment: String!
+    postId: ID!
+    postType: PostType!
+    previousStars: Int!
+    ratingId: String!
+}
+

@@ -1,0 +1,6 @@
+input createUserInput {
+    name: String!
+    profileImage: String!
+    backgroundImage:String!
+    bio:String!
+}

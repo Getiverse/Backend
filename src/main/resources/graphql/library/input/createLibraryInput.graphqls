@@ -1,0 +1,5 @@
+input createLibraryInput{
+    isPrivate:Boolean!
+    title:String!
+    description: String!
+}

@@ -1,0 +1,6 @@
+input createRatingInput{
+    stars: Int!
+    comment: String!
+    postId: ID!
+    postType: PostType!
+}

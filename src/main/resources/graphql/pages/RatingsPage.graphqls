@@ -1,0 +1,4 @@
+type RatingsPage {
+    count: Int!
+    data: [Rating!]
+}

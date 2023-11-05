@@ -1,0 +1,5 @@
+input createReplyInput{
+    repliedUser: ID!
+    ratingId: ID!
+    comment: String!
+}

@@ -1,0 +1,9 @@
+type Category {
+    id: ID!
+    name: String!
+    image: String!
+}
+extend type Query {
+    findCategoryById(id:String!):Category
+    findAllCategories:[Category!]
+}
